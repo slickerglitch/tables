@@ -34,3 +34,9 @@
 	 margin-left: 1.0em;
 	 user-select: none;
  }
+
+ a.dtMoveUp, a.dtMoveDown {
+   margin:5px;
+   text-decoration: none;
+   cursor: pointer;
+}

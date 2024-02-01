@@ -1,5 +1,0 @@
-/* Behavior: Active Table Row */ 
-.table tbody tr.active-row {
-   font-weight: bold;
-   color: cadetblue;
-}
