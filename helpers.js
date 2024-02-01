@@ -35,6 +35,23 @@
 			"name": "Music",
 			"description": "&#127926;",
 			"order": 6
+		},
+		{
+			"id": 7,
+			"name": "Beans",
+			"description": "🫘",
+			"order": 7
+		},
+		{
+			"id": 8,
+			"name": "Luck",
+			"description": "🍀",
+			"order": 8
+		},	{
+			"id": 9,
+			"name": "Peace",
+			"description": "☮️",
+			"order": 9
 		}
 		
 	];
