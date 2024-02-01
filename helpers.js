@@ -17,7 +17,26 @@
 			"name": "Liberty",
 			"description": "&#128509;",
 			"order": 3
+		},
+		{
+			"id": 4,
+			"name": "Magic",
+			"description": "&#10024;",
+			"order": 4
+		},
+		{
+			"id": 5,
+			"name": "Friendship",
+			"description": "&#129505;",
+			"order": 5
+		},
+		{
+			"id": 6,
+			"name": "Music",
+			"description": "&#127926;",
+			"order": 6
 		}
+		
 	];
 
 	var table = $('#ArgumentsTable').DataTable({
